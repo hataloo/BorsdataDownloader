@@ -6,3 +6,4 @@ The currently implemented strategies are Magic Formula and Acquirer's Multiple.
 
 Requires a Börsdata Premium subscribtion with a user_credentials file.
 
+![Image](../BorsdataDownloader/tree/master/BorsdataShowcase/Login.png)
