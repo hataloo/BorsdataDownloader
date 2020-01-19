@@ -4,4 +4,4 @@ A program that opens a web browser with Selenium, logs into Börsdata and downlo
 
 The currently implemented strategies are Magic Formula and Acquirer's Multiple.
 
-Requires a Börsdata Premium subscribtion.
+Requires a Börsdata Premium subscribtion with a user_credentials file.
