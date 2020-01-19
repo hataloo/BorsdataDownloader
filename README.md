@@ -12,6 +12,6 @@ Logs into Börsdata
 Selects a strategy, fills in desired markets and industries.
 
 <img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectStrat.png" width="500">
-<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectMarket.png" width="300">
-<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectIndustry.png" width="300">
+<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectMarket.png" width="500">
+<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectIndustry.png" width="500">
 
