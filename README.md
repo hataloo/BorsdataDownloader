@@ -16,3 +16,6 @@ Selects a strategy, fills in desired markets and industries.
 <img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectMarket.png" width="500">
 <img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectIndustry.png" width="500">
 
+Uses Börsdata's export feature to get the data in an Excel-file.
+
+<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/Downloaded.png" width="500">
