@@ -6,7 +6,7 @@ The currently implemented strategies are Magic Formula and Acquirer's Multiple.
 
 Requires a Börsdata Premium subscribtion with a user_credentials file.
 
-Logs into Börsdata
+Logs into Börsdata on its own.
 
 <img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/Login.png" width="500">
 
