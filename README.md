@@ -6,4 +6,6 @@ The currently implemented strategies are Magic Formula and Acquirer's Multiple.
 
 Requires a Börsdata Premium subscribtion with a user_credentials file.
 
-![](https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/Login.png = 250x250)
+<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/Login.png" width="48">
+
+![](https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/Login.png)
