@@ -7,6 +7,7 @@ The currently implemented strategies are Magic Formula and Acquirer's Multiple.
 Requires a Börsdata Premium subscribtion with a user_credentials file.
 
 Logs into Börsdata
+
 <img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/Login.png" width="500">
 
 Selects a strategy, fills in desired markets and industries.
