@@ -12,9 +12,7 @@ Logs into Börsdata on its own.
 
 Selects a strategy, fills in desired markets and industries.
 
-<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectStrat.png" width="280">
-<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectMarket.png" width="280">
-<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectIndustry.png" width="280">
+<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectStrat.png" width="280"><img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectMarket.png" width="280"><img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/SelectIndustry.png" width="280">
 
 Uses Börsdata's export feature to download the data in an Excel-file.
 
