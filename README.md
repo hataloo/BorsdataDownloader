@@ -18,11 +18,8 @@ Selects a strategy, fills in desired markets and industries.
 
 Uses Börsdata's export feature to download the data in an Excel-file.
 
-<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/Downloaded.png" width="500">
-<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/ScrapedExcel.png" width="500">
+<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/Downloaded.png" width="500"><img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/ScrapedExcel.png" width="500">
 
 The Excel-file is processed and filtered according to the selected strategy. For example, Magic Formula filter companies with a market cap below 500 million SEK, rank companies separetely in ROC (Return On Capital) and EBIT (Earnings Before Interest and Taxes) and combines the ranks into the Magic rank.
 
-<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/ProcessedExcel.png" width="500">
-
-<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/DataframeSpyder.png" width="500">
+<img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/ProcessedExcel.png" width="500"> <img src="https://github.com/hataloo/BorsdataDownloader/blob/master/BorsdataShowcase/DataframeSpyder.png" width="500">
